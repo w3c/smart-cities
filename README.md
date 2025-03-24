@@ -15,16 +15,19 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 * McCool
 * Koster
 
-## Agenda
+### Agenda
 
-### 24 March 2025
+#### 24 March 2025
 1. Logistics (Guests, Meeting schedule, etc.)
 2. Minutes review: [Feb-17](https://www.w3.org/2025/02/17-smart-cities-minutes.html), [Feb-18](https://www.w3.org/2025/02/18-smart-cities-minutes.html)
-3. Review GitHub updates (Liaison targets, Existing resouces, Prioritization, etc.)
+3. Review: GitHub updates about the [liaison targets and existing resouces](resources.md) - add resources and discuss priority, etc.
 4. AOB (Your input is welcome!)
 
-### 17-18 February 2025
+#### 17-18 February 2025
 1. Logistics (Meeting schedule, GitHub repo, etc.)
 2. Quickly skim the [IG Charter](https://www.w3.org/2024/06/smart-cities/)
 3. Discussion on the next steps (Liaison targets, Existing resouces, etc.)
 4. AOB (Your input is welcome!)
+
+## Liaison targets and existing resources
+Please see the list of the [liaison targets and existing resources](resources.md).
