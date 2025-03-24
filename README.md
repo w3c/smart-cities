@@ -6,12 +6,9 @@ Work area for the Web-based Digital Twins for Smart Cities IG
 The IG's monthly call is held on the fourth Monday at 9am Eastern to
 avoid the conflict with the Working Group Standards & Platforms.
 
-Please see also the W3C calendar entry at:
-  https://www.w3.org/events/meetings/d557717b-e6a8-4f04-b9cb-bc2172643465/20250324T090000/
+Please see also the [W3C calendar entry](https://www.w3.org/events/meetings/d557717b-e6a8-4f04-b9cb-bc2172643465/20250324T090000/).
 
-We use the W3C IRC channel at:
-  https://irc.w3.org/?channels=smart-cities
-as well for the meeting.
+We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well to take notes during the monthly calls.
 
 ### Scribe list
 * Kaz
