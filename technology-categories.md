@@ -1,5 +1,13 @@
 # Technology Cagegories
 
-## Digital Twins
+# Digital Twin and Web intersection
 
-## Geolocation
+## Geospatial data
+
+## Entity/Relationship data
+
+## Time series and measurements
+
+## Visualization
+
+## Analytics and automation
