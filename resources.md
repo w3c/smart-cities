@@ -117,8 +117,13 @@ smart homes
 
 ### IPA (Information-technology Promotion Agency, Japan) DADC
 smart buildings
+* Guidelines about smart buildings (Japanese)
+  * [スマートビル総合ガイドライン (General Guidelines)](https://www.ipa.go.jp/digital/architecture/Individual-link/ps6vr70000016bsc-att/smartbuilding_comprehensive_guideline.pdf)
+  * [スマートビルシステムアーキテクチャガイドライン (System Architecture guidelines)](https://www.ipa.go.jp/digital/architecture/Individual-link/ps6vr70000016bq2-att/smartbuilding_system-architecture_guideline.pdf)
+  * [スマートビル構築・運用ガイドライン (Building and Operation guidelines)](https://www.ipa.go.jp/digital/architecture/Individual-link/ps6vr700000160k2-att/smartbuilding_construction-operation_guideline.pdf)
+  * [スマートビルデータガバナンスガイドライン (Data Governance Guidelines)](https://www.ipa.go.jp/digital/architecture/Individual-link/ps6vr700000160md-att/smartbuilding_data-governance_guideline.pdf)
 
-A separate and dedicated consortium to discuss smart building is immerging.
+A separate and dedicated consortium to discuss smart building is immerging (Resources TBD).
 
 ### DTPR
 foundation for transparency, legibility and accountability of digital technology in built environment
