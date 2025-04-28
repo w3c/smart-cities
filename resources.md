@@ -183,6 +183,7 @@ trusted framework to support smart cities and communities
 
 ### ETSI
 standardization to meet citizen and consumer requirements
+- https://github.com/w3c/wot-ngsi-ld/blob/main/resources.md
 
 ### FIWARE
 open-source implementations of open standard like NGSI-LD in partnership with ETSI, etc.
