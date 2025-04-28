@@ -1,4 +1,4 @@
-# Technology Cagegories
+# Technology Categories
 
 # Digital Twin and Web intersection
 
