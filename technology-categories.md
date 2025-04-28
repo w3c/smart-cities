@@ -26,3 +26,14 @@
 - AR/VR/MR/XR
 
 ## Analytics and automation
+- WebNN
+    - For AI models, although WebGPU can also be used for acceleration
+    - e.g. to implement "prediction" function below by training a model
+- Simulation
+    - e.g. generate continuous 2D image from localized sensor readings of pollution, taking into account wind, etc.
+- Automation rules (when this is true, do that, aka IFTTT)
+    - Notifications (when this is true, signal event via this mechanism)
+- Statistical analysis of historical data
+    - e.g. How does current energy consumption/traffic/air quality etc. compare to this time last year?
+- Predictive models/forecasts
+   - Weather being the most obvious one, but also traffic, air quality, energy consumption, etc.
