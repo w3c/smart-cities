@@ -11,6 +11,10 @@
 - RDF, RDF-Star, JSON-LD, SPARQL, etc.
 
 ## Time series and measurements
+- SSN ontologies
+- IEEE and NGSI-LD ontologies for time series data
+- IoT Sensor interfacing
+    - WoT
 
 ## Visualization
 
