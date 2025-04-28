@@ -115,6 +115,12 @@ standardized taxonomy, terminology and semantics for smart cities
 ### ECHONET
 smart homes
 
+[ECHONET Specifications](https://echonet.jp/spec-en/)
+* [API Specifications Section Version 1.1.4](https://echonet.jp/wp/wp-content/uploads/pdf/General/Standard/web_api/ECHONET_Lite_Web_API_Specs_v1.1.4_e.pdf)
+* [Device Specifications Section 1.4.1](https://echonet.jp/wp/wp-content/uploads/pdf/General/Standard/web_api/ECHONET_Lite_Web_API_Dev_Specs_v1.4.1_e.pdf)
+  * [Device Description (extracted from the above "Device Specifications Section 1.4.1)](https://echonet.jp/wp/wp-content/uploads/pdf/General/Standard/web_api/Web_API_device_descriptions_v1.4.1.zip)
+* [DR Service Sprcificatios Versio 1.0.0](https://echonet.jp/wp/wp-content/uploads/pdf/General/Standard/web_api/ECHONET_Lite_Web_API_DR_Specs_en_v1.0.0.pdf)
+
 ### IPA (Information-technology Promotion Agency, Japan) DADC
 smart buildings
 
