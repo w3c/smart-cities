@@ -98,6 +98,29 @@ standardized vocabulary for smart cities
 ### ISO/IEC JTC1
 standards on smart city ICT, pre-research work and gap analysis
 
+#### WG11
+* [WG 11 Smart Cities](https://jtc1info.org/sd-2-history/jtc1-working-groups/wg-11/)
+  * [Information technology — Smart city ICT indicators (ISO/IEC 30146:2019)](https://www.iso.org/standard/70302.html)
+  * [Information technology — Upper level ontology for smart city indicators (ISO/IEC 21972:2020)](https://www.iso.org/standard/72325.html)
+  *	[Information technology — Smart City ICT reference framework — Part 1: Smart city business process framework (ISO/IEC 30145-1:2021)](https://www.iso.org/standard/76371.html)
+  *	[Information technology — Smart City ICT reference framework — Part 2: Smart city knowledge management framework (ISO/IEC 30145-2:2020)](https://www.iso.org/standard/76372.html)
+  * [Information technology — Smart City ICT reference framework — Part 3: Smart city engineering framework (ISO/IEC 30145-3:2020)](https://www.iso.org/standard/76373.html)
+  *	[Information technology — Smart city digital platform reference architecture — Data and service (ISO/IEC 24039:2022)](https://www.iso.org/standard/77621.html)
+  *	[Information technology — City data model — Part 1: Foundation level concepts (ISO/IEC 5087-1:2023)](https://www.iso.org/standard/80718.html)
+  *	[Information technology — City data model — Part 2: City level concepts (ISO/IEC 5087-2:2024)](https://www.iso.org/standard/80742.html)
+  *	[Information technology — City data model — Part 3: Service level concepts -Transportation planning (ISO/IEC 5087-3)](https://www.iso.org/standard/87441.html)
+    * Note that this project has been transferred to the JWG between ISO/TC 204 and ISO/IEC JTC 1.
+  *	[Information technology — City data model —Part 4: Service level concepts for public health emergencies (ISO/IEC NP 5087-4)](https://www.iso.org/standard/89870.html)
+  *	[Information Technology — City service platform for public health emergencies — Part 1: Overview and general requirements (ISO/IEC 5153-1:2024)](https://www.iso.org/standard/80929.html)
+  *	[Information technology — Data use in smart cities — Part 1: Framework (ISO/IEC AWI 25005-1)](https://www.iso.org/standard/88765.html)
+  *	[Information technology — Data use in smart cities — Part 2: Use case analysis and common considerations (ISO/IEC AWI TR 25005-2)](https://www.iso.org/standard/86195.html)
+  *	[Information technology—Data use in smart cities — Part 3: Measurement, evaluation and reporting (ISO/IEC AWI TS 25005-3)](https://www.iso.org/standard/88852.html)
+  *	[Information technology — Guidance on smart city ICT infrastructure planning — Overview (ISO/IEC AWI 21252)](https://www.iso.org/standard/88764.html)
+    * Note that this project wil be transferred to the JWG between ISO/IEC JTC 1 and ISO/TC 268/SC 1.
+  *	[Information technology — Overview of information technology standards for smart cities (ISO/IEC AWI TR 20169)](https://www.iso.org/standard/86118.html)
+  *	[Information technology — Domain knowledge trustworthiness evaluation for smart cities (ISO/IEC PWI 20822)
+  *	[Information technology – City data model — Part 4: Service level concepts for public health emergencies (ISO/IEC PWI 10235-4)
+
 * SC41
 
 ### BSI
