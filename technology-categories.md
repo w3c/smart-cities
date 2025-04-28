@@ -17,5 +17,12 @@
     - WoT
 
 ## Visualization
+- WebGPU
+- Scalable Vector Graphics
+- Canvases
+- Graphs
+- Maps
+- Charts
+- AR/VR/MR/XR
 
 ## Analytics and automation
