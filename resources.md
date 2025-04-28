@@ -82,6 +82,32 @@ communication protocols, data modelling, discovery, and security standards
 
 ### ITU-T
 standards for telecommunication technologies and the use cases they enable
+* [ITU-T SG20 - IoT and smart cities](https://www.itu.int/en/ITU-T/studygroups/2022-2024/20/Pages/default.aspx)
+* [ITU-T SG20 Recommendations](https://www.itu.int/ITU-T/recommendations/index_sg.aspx?sg=20)
+
+#### FG-DPM
+* [2019 - Technical Specification D5 – Data economy: commercialization, ecosystem and impact assessment](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-5)
+* [2019 - Technical Specification D4.4 – Framework to support data quality management in IoT](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-4.4)
+* [2019 - Technical Report D4.3 – Overview of technical enablers for trusted data](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-4.3)
+* [2019 - Technical Report D4.1 – Framework for security, privacy, risk and governance in data processing and management](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-4.1)
+* [2019 - Technical Specification D3.8 – Identity framework in blockchain to support DPM for IoT and SC&C](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-3.8)
+* [2019 - Technical Specification D3.7 – Blockchain-based data management for supporting IoT and SC&C](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-3.7)
+* [2019 - Technical Specification D3.6 – Blockchain-based data exchange and sharing for supporting IoT and SC&C](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-3.6)
+* [2019 - Technical Report D3.5 – Overview of blockchain for supporting IoT and SC&C in DPM aspects](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-3.5)
+* [2019 - Technical Specification D3.3 – Framework to support data interoperability in IoT environments](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-3.3)
+* [2019 - Technical Specification D3.2 – SensorThings API – Sensing](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-3.2)
+* [2019 - Technical Report D2.3 – Web based data model for IoT and smart city](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-2.3)
+* [2019 - Technical Specification D2.1 – Data processing and management framework for IoT and smart cities and communities](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-2.1)
+* [2019 - Technical Specification D1.1 – Use case analysis and requirements for Data Processing and Management to support IoT and Smart Cities and Communities](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-1.1)
+* [2019 - Technical Report D0.2 – Data processing and management for IoT and smart cities and communities: methodology for data processing and management concept building](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-0.2)
+* [2019 - Technical Specification D0.1 – Data Processing and Management for IoT and Smart Cities and Communities: Vocabulary](https://www.itu.int/pub/publications.aspx?lang=en&amp;parent=T-FG-DPM-2019-0.1)
+
+#### Web of Things
+* [Web of Things Framework](https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.2063-201207-I!!PDF-E&type=items)
+* [Web of Things Service Architecture](https://www.itu.int/dms_inf/itu-t/md/13/sg16/td/130114/WP2/T13-SG16-130114-TD-WP2-0030!!MSW-E.docx)
+
+#### Data models
+TBD
 
 ### Open Geospatial Consortium (OGC):
 geolocation and geographic information systems
