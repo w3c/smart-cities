@@ -112,30 +112,30 @@ TBD
 ### Open Geospatial Consortium (OGC)
 geolocation and geographic information systems
 * [OGC Standards](https://www.ogc.org/standards/)
-** [Abstract Specification](https://www.ogc.org/standards/abstract-specification/)
-** OGC APIs
-*** [OGC API - Features](https://www.ogc.org/standards/ogcapi-features/)
-*** [OGC API - Moving Features](https://www.ogc.org/standards/ogc-api-moving-features/)
-*** [OGC API - Processes](https://www.ogc.org/standards/ogcapi-processes/)
-*** [OGC Sensor Things API](https://www.ogc.org/standards/sensorthings/)
-** Services
-*** TBD
-** Data Modesl and Encodings - General
-*** [3D Tiles](https://www.ogc.org/standards/3dtiles/)
-*** [GeoPose](https://www.ogc.org/standards/geopose/)
-*** [Indexed 3D Scene Layers (I3S)](https://www.ogc.org/standards/i3s/)
-*** [Observations, Measurements and Samples](https://www.ogc.org/standards/om/)
-** General Feature Model
-** Simple Features
-** Data Modesl and Encodings - Domain Specific
-*** [CityGML](https://www.ogc.org/standards/citygml/)
-*** [CityJSON](https://www.ogc.org/standards/cityjson/)
-*** [Indoor Mapping Data Forat (IMDF)](https://www.ogc.org/standards/indoor-mapping-data-format/)
-*** [LAS Specification](https://www.ogc.org/standards/las/)
-*** [MUDDI](https://www.ogc.org/standards/muddi/)
-*** [OGC WaterML](https://www.ogc.org/standards/waterml/)
-*** [Points of Interest (POI)](https://www.ogc.org/standards/points-of-interest-poi/)
-*** [TimeseriesML (TSML)](https://www.ogc.org/standards/tsml/)
+  * [Abstract Specification](https://www.ogc.org/standards/abstract-specification/)
+  * OGC APIs
+    * [OGC API - Features](https://www.ogc.org/standards/ogcapi-features/)
+    * [OGC API - Moving Features](https://www.ogc.org/standards/ogc-api-moving-features/)
+    * [OGC API - Processes](https://www.ogc.org/standards/ogcapi-processes/)
+    * [OGC Sensor Things API](https://www.ogc.org/standards/sensorthings/)
+  * Services
+    * TBD
+  * Data Modesl and Encodings - General
+    * [3D Tiles](https://www.ogc.org/standards/3dtiles/)
+    * [GeoPose](https://www.ogc.org/standards/geopose/)
+    * [Indexed 3D Scene Layers (I3S)](https://www.ogc.org/standards/i3s/)
+    * [Observations, Measurements and Samples](https://www.ogc.org/standards/om/)
+  * General Feature Model
+  * Simple Features
+  * Data Modesl and Encodings - Domain Specific
+    * [CityGML](https://www.ogc.org/standards/citygml/)
+    * [CityJSON](https://www.ogc.org/standards/cityjson/)
+    * [Indoor Mapping Data Forat (IMDF)](https://www.ogc.org/standards/indoor-mapping-data-format/)
+    * [LAS Specification](https://www.ogc.org/standards/las/)
+    * [MUDDI](https://www.ogc.org/standards/muddi/)
+    * [OGC WaterML](https://www.ogc.org/standards/waterml/)
+    * [Points of Interest (POI)](https://www.ogc.org/standards/points-of-interest-poi/)
+    * [TimeseriesML (TSML)](https://www.ogc.org/standards/tsml/)
 
 ### ISO
 standards on sustainable cities and communities
