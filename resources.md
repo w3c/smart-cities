@@ -148,7 +148,7 @@ Methodology and products ontology
 * [Common Data Dictionary (CDD)](https://cdd.iec.ch)
 * [IEC 61360-4 - IEC/SC 3D - Common Data Dictionary (CDD - V2.0018.0002)](https://cdd.iec.ch/CDD/iec61360/iec61360.nsf/TreeFrameset?OpenFrameSet)
 
-* SyC Smart Cities
+#### SyC Smart Cities
 
 ### ISO/IEC JTC1
 standards on smart city ICT, pre-research work and gap analysis
