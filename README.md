@@ -16,11 +16,12 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 * Koster
 
 ### Agenda
-#### 23 Jun 2025
+
+#### 7 Jul 2025
 1. Logistics (Guests, Meeting schedule, etc.)
 2. Minutes review: [May-26](https://www.w3.org/2025/05/26-smart-cities-minutes.html)
 3. Review: [GitHub PRs](https://github.com/w3c/smart-cities/pulls) for the [resources.md file](resources.md) - add resources and discuss priority, etc.
-4. Discussion with external SDOs (Torbjorn Lahrin, Mark Fox)
+4. Discussion about existing resources around Smart Cities (Torbjorn Lahrin, Mark Fox, and all)
 5. AOB (Your input is welcome!)
 
 #### 26 May 2025
