@@ -17,6 +17,14 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 
 ### Agenda
 
+#### 8 Sep 2025
+1. Logistics (Guests, Meeting schedule, etc.)
+2. Minutes review: [Jul-7](https://www.w3.org/2025/07/07-smart-cities-minutes.html)
+3. Possible F2F meeting during TPAC 2025 breakouts: [Breakout repo](https://github.com/w3c/tpac2025-breakouts)
+4. NGSI-LD Collaboration (Juanjo Hierro, Frederic LE)
+5. Review: [GitHub PRs](https://github.com/w3c/smart-cities/pulls) for the [resources.md file](resources.md) - add resources and discuss priority, etc.
+6. AOB (Your input is welcome!)
+
 #### 7 Jul 2025
 1. Logistics (Guests, Meeting schedule, etc.)
 2. Minutes review: [May-26](https://www.w3.org/2025/05/26-smart-cities-minutes.html)
