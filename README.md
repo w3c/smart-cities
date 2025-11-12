@@ -17,6 +17,16 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 
 ### Agenda
 
+#### 12 Nov 2025
+(as a breakout session during TPAC 2025)
+1. Review the discussion so far
+2. Get input from stakeholders about their pain points and current practices
+3. Discuss what's still missing and what/how Web standards could help
+
+See also:
+* [GitHub Issue for the TPAC breakout session](https://github.com/w3c/tpac2025-breakouts/issues/23)
+* [Slides](https://github.com/w3c/smart-cities/blob/main/slides/20251112-tpac2025/20251112-smartcities-tpac2025-ka.pdf)
+
 #### 8 Sep 2025
 1. Logistics (Guests, Meeting schedule, etc.)
 2. Minutes review: [Jul-7](https://www.w3.org/2025/07/07-smart-cities-minutes.html)
