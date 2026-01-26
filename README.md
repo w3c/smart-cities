@@ -11,6 +11,7 @@ Please see also the [W3C calendar entry](https://www.w3.org/events/meetings/d557
 We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well to take notes during the monthly calls.
 
 ### Scribe list (recent at top)
+* Bert
 * Kaz
 * McCool
 * Koster
