@@ -22,7 +22,7 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 1. Logistics (Guests, Meeting schedule, etc.)
 2. Minutes review: [8 Sep 2025](https://www.w3.org/2025/09/08-smart-cities-minutes.html)
 3. Wrap-up from theTPAC 2025 breakout: [Breakout minutes](https://w3c.github.io/smart-cities/minutes/2025/11/12-smart-cities-minutes.html)
-4. Basic Pkan for 2026 (Possible collaboration with ETSI, OGC, JTC, etc.)
+4. Basic Plan for 2026 (Possible collaboration with ETSI, OGC, JTC, etc.)
 5. AOB (Your input is welcome!)
 
 #### 12 Jan 2026
