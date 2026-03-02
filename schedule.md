@@ -14,29 +14,29 @@ As the [IG Charter](https://www.w3.org/2024/06/smart-cities/) says, the group wo
 
 ## Basic schedule
 ### Deliverable document(s)
-* March, 2026: Start initial work on the document based on Resources.md
-** Call for Editors/Contributors
-** Decide the title, scope, concept and the structure of the document
-** collect updated resources about topics discussed during the IG meetings so far
+* March, 2026: Start initial work on the document based on [resources.md](./resources.md)
+  * Call for Editors/Contributors
+  * Decide the title, scope, concept and the structure of the document
+  * collect updated resources about topics discussed during the IG meetings so far
 * April, 2026:
-** Review the initial draft of the document
-** Clarify how to improve the document via GitHub Issues
-** Update the document via GitHub Pullrequests
+  * Review the initial draft of the document
+  * Clarify how to improve the document via GitHub Issues
+  * Update the document via GitHub Pullrequests
 * May, 2026:
-** Finalizet the updated draft of the document
-** Publish the document as an IG Note
+  * Finalizet the updated draft of the document
+  * Publish the document as an IG Note
 
 ### [IG Charter](https://www.w3.org/2024/06/smart-cities/) (which expires the end of July, 2026)
 * June, 2026: Start discussion about the updated Charter
-** Get input about what to be changed (added/deleted/updated) from the current Chareter
+  * Get input about what to be changed (added/deleted/updated) from the current Chareter
 * July, 2026:
-** Get a short-term (e.g., 3-month) extension for the re-Chartering procedure
-** finalzie the new Charter and initiate the AC review
+  * Get a short-term (e.g., 3-month) extension for the re-Chartering procedure
+  * finalzie the new Charter and initiate the AC review
 * August, 2026:
-** get the results from the AC review
-** updates the new Charter based on the feedback from the AC review (if any)
+  * get the results from the AC review
+  * updates the new Charter based on the feedback from the AC review (if any)
 * September, 2026:
-** Start the IG's new Charter period
+  * Start the IG's new Charter period
 
 ## Past
 ### 2025
