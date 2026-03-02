@@ -11,12 +11,18 @@ Please see also the [W3C calendar entry](https://www.w3.org/events/meetings/d557
 We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well to take notes during the monthly calls.
 
 ### Scribe list (recent at top)
+* Koster
 * Bert
 * Kaz
-* McCool
-* Koster
 
 ### Agenda
+
+#### 2 March 2026
+1. Logistics (Guests, Meeting schedule, etc.)
+2. Minutes review: [25 Jan 2026](https://www.w3.org/2026/01/26-smart-cities-minutes.html)
+3. Basic Plan for 2026
+4. Collaboration with ETSI on NGSI-LD
+5. AOB (Your input is welcome!)
 
 #### 26 Jan 2026
 1. Logistics (Guests, Meeting schedule, etc.)
