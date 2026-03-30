@@ -19,6 +19,13 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 
 #### 2 March 2026
 1. Logistics (Guests, Meeting schedule, etc.)
+2. Minutes review: [2 March 2026](https://www.w3.org/2026/03/02-smart-cities-minutes.html)
+3. Status check for [Plan 2026](https://github.com/w3c/smart-cities/blob/main/schedule.md)
+4. Collaboration with OGC
+5. AOB (Your input is welcome!)
+
+#### 2 March 2026
+1. Logistics (Guests, Meeting schedule, etc.)
 2. Minutes review: [25 Jan 2026](https://www.w3.org/2026/01/26-smart-cities-minutes.html)
 3. Basic Plan for 2026
 4. Collaboration with ETSI on NGSI-LD
