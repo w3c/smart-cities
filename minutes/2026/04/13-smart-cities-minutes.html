@@ -1,0 +1,201 @@
+
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=utf-8>
+<title>Web-based Digital Twins for Smart Cities IG &ndash; 13 April 2026</title>
+<meta name=viewport content="width=device-width">
+<link rel="stylesheet" type="text/css" title="2018" href="https://www.w3.org/StyleSheets/scribe2/public.css">
+<link rel="alternate stylesheet" type="text/css" title="2004" href="https://www.w3.org/StyleSheets/base.css">
+<link rel="alternate stylesheet" type="text/css" title="2004" href="https://www.w3.org/StyleSheets/public.css">
+<link rel="alternate stylesheet" type="text/css" title="2004" href="https://www.w3.org/2004/02/minutes-style.css">
+<link rel="alternate stylesheet" type="text/css" title="Fancy" href="https://www.w3.org/StyleSheets/scribe2/fancy.css">
+<link rel="alternate stylesheet" type="text/css" title="Typewriter" href="https://www.w3.org/StyleSheets/scribe2/tt-member.css">
+</head>
+
+<body>
+<header>
+<p><a href="https://www.w3.org/"><img src="https://www.w3.org/assets/logos/w3c-2025/svg/w3c-white.svg" alt=W3C border=0 height=60 width=60></a></p>
+
+<h1>&ndash; DRAFT &ndash;<br>
+Web-based Digital Twins for Smart Cities IG</h1>
+<h2>13 April 2026</h2>
+
+<nav id=links>
+<a href="https://github.com/w3c/smart-cities/blob/main/README.md"><img alt="Agenda." title="Agenda" src="https://www.w3.org/StyleSheets/scribe2/chronometer.png"></a>
+<a href="https://www.w3.org/2026/04/13-smart-cities-irc"><img alt="IRC log." title="IRC log" src="https://www.w3.org/StyleSheets/scribe2/text-plain.png"></a>
+</nav>
+</header>
+
+<div id=prelims>
+<div id=attendees>
+<h2>Attendees</h2>
+<dl class=intro>
+<dt>Present</dt><dd>Bert_Bos, Kaz_Ashimura, Kunihiko_Toumura, Linda_van_den_Brink, Michael_Koster, Scott_Simmons, Tomoaki_Mizushima</dd>
+<dt>Regrets</dt><dd>-</dd>
+<dt>Chair</dt><dd>Kaz, Koster</dd>
+<dt>Scribe</dt><dd>Bert</dd>
+</dl>
+</div>
+
+<nav id=toc>
+<h2>Contents</h2>
+<ol>
+<li><a href="#b601">Logistics</a></li>
+<li><a href="#8236">Minutes</a></li>
+<li><a href="#1530">Progress check</a></li>
+<li><a href="#e9ad">Collaboration with OGC (presentation)</a></li>
+<li class=app><a href="#ResolutionSummary">Summary of resolutions</a></li>
+</ol>
+</nav>
+</div>
+
+<main id=meeting class=meeting>
+<h2>Meeting minutes</h2>
+<section></section>
+
+<section>
+<h3 id=b601>Logistics</h3>
+<p id=0575 class="phone s01"><cite>kaz:</cite> agenda and logistics. Guests today: Linda and Scott</p>
+</section>
+
+<section>
+<h3 id=8236>Minutes</h3>
+<p id=91cf class=irc><cite>&lt;kaz&gt;</cite> <a href="https://w3c.github.io/smart-cities/minutes/2026/03/02-smart-cities-minutes.html">March 2</a></p>
+<p id=0d83 class=summary>Kaz goes over previous minutes.</p>
+<p id=68e2 class="phone s01"><cite>kaz:</cite> We need to talk about next charter as well.<br>
+<span id=8e8a>… Still waiting for the slides of the last meeting's presentation.</span></p>
+<p id=d122 class=resolution><strong>RESOLUTION:</strong> minutes approved</p>
+</section>
+
+<section>
+<h3 id=1530>Progress check</h3>
+<p id=cb01 class="phone s01"><cite>Kaz:</cite> we want to write a Note, possibly called Technology Landscape around Web-based Digital Twins for Smart Cities</p>
+<p id=7750 class=summary><a href="https://w3c.github.io/smart-cities/ig-note/">Kaz shows the current template for the note</a></p>
+<p id=7928 class=irc><cite>&lt;kaz&gt;</cite> <a href="https://github.com/w3c/smart-cities/tree/main/ig-note">GitHub area for the Note</a></p>
+<p id=4987 class="phone s01"><cite>kaz:</cite> we can update based on our discussions, such as today's, and liaisons.<br>
+<span id=a444>… today's topic is collaboration with OGC</span></p>
+</section>
+
+<section>
+<h3 id=e9ad>Collaboration with OGC (presentation)</h3>
+<p id=aaaa class=summary>Linda shows some slides</p>
+<p id=ffff class="phone s02"><cite>linda:</cite> OGC has several standards, for geospatial data formats, etc.<br>
+<span id=2289>… With these standards we, e.g., us at Geonovum, can create interoperable digital twins.</span><br>
+<span id=c67d>… about soil, rainfall, traffic, etc.</span><br>
+<span id=556a>… We are mostly making simulations.</span><br>
+<span id=68eb>… And testing them in so-called testbeds</span><br>
+<span id=492a>… Companies get grants to do testing.</span><br>
+<span id=e745>… (I'm skipping many slides with examples.)</span><br>
+<span id=90fc>… Here is one use case and I'll explain the standards involved.</span></p>
+<p id=0146 class=irc><cite>&lt;kaz&gt;</cite> [Get backdrop of Almere]</p>
+<p id=3d94 class="phone s02"><cite>linda:</cite> The use case is about heavy rainfall, that may flood streets.<br>
+<span id=d506>… Start with an aerial photograph.</span><br>
+<span id=37b7>… Using OGC APIs we can get data, such as maps.</span></p>
+<p id=449a class=irc><cite>&lt;kaz&gt;</cite> [Search for cloudburst simulator]</p>
+<p id=36e2 class="phone s02"><cite>linda:</cite> Then we search for a model that can do the calculations.<br>
+<span id=6146>… OGC API Records is an OGC standard that we use for data sets (DCAT)</span></p>
+<p id=8277 class=irc><cite>&lt;kaz&gt;</cite> [API Processes]</p>
+<p id=5857 class="phone s02"><cite>linda:</cite> Once found, we add interactions, with OGC API Processes<br>
+<span id=c1d0>… The user gets back that a simulator is available and he has to fill in some fields.</span><br>
+<span id=ff2d>… That informs the process of the needed data.</span><br>
+<span id=2238>… Data comes back in a standard format.</span></p>
+<p id=6e84 class=irc><cite>&lt;kaz&gt;</cite> [Async]</p>
+<p id=b03b class="phone s02"><cite>linda:</cite> After the calculation, which can take some time, the user gets back the results.<br>
+<span id=172c>… This is an example of the OGC standards that can be involved in a digital twin.</span></p>
+<p id=2208 class="phone s03"><cite>Scott:</cite> The context of the digital twin is always understandable and compatible.<br>
+<span id=ba79>… Including the digitial representations of sensors.</span><br>
+<span id=b4e7>… We've been working with several standards bodies for that, including W3C.</span><br>
+<span id=b3e2>… DCAT was already mentioned as an example.</span></p>
+<p id=10000 class="phone s01"><cite>kaz:</cite> Thanks for that presentation.<br>
+<span id=417f>… You mentioned DCAT.</span><br>
+<span id=bbf4>… How about Web of Things as another model for sensors and devices?</span></p>
+<p id=352d class="phone s03"><cite>scott:</cite> Already some standards in OGC, such as SOSA/SSN joint with W3C.<br>
+<span id=4e7f>… All those sensors, for use, need a time and space.</span></p>
+<p id=aff0 class="phone s01"><cite>kaz:</cite> WoT in W3C is working on a data model,<br>
+<span id=bda5>… but it doesn't have concrete time and location.</span></p>
+<p id=e89c class="phone s02"><cite>linda:</cite> When I was in the Spatial Data WG, there were people looking into how the models correspond.<br>
+<span id=c647>… About if they were at different levels and could be combined.</span></p>
+<p id=5126 class="phone s01"><cite>kaz:</cite> wondering about logic handling mechanism for orchestration of multiple entities, a possibility is State chart model as basis for synchronizing streams.</p>
+<p id=c661 class="phone s03"><cite>scott:</cite> There has been some work in API for connected services.<br>
+<span id=4a08>… We have to dig a bit to see what is present.</span></p>
+<p id=4c4a class="phone s04"><cite>mjk:</cite> I think much is complementary.<br>
+<span id=1a67>… WoT doesn't define its own API.</span><br>
+<span id=cc30>… It is more like a semantically rich data model based on JSON-LD</span><br>
+<span id=164f>… WoT is a fairly compact JSON-LD vocabulary.</span><br>
+<span id=11d1>… It connects to annotations from other standards.</span><br>
+<span id=e935>… It doesn't try to replace other layers.</span><br>
+<span id=1657>… It is for coupling.</span><br>
+<span id=a543>… In the context of deployment, how do these pieces work together?</span><br>
+<span id=1d9d>… WoT sort of fills in the cracks.</span><br>
+<span id=f225>… We try to create a bigger, overall standard.</span><br>
+<span id=9ce3>… In this group we look at how everything fits together</span></p>
+<p id=4944 class="phone s02"><cite>linda:</cite> Sounds like interesting work to write that Note that describes how everything fits<br>
+<span id=bf9d>… OGC would be part of the description.</span></p>
+<p id=fe52 class="phone s01"><cite>kaz:</cite> One point might be user credentials and authorization.<br>
+<span id=feb1>… Are there standards for that?</span></p>
+<p id=e646 class="phone s02"><cite>linda:</cite> Nothing specific to geospatial. We use general mechanisms</p>
+<p id=2dd6 class="phone s02"><cite>linda:</cite> There is still work on a new version of SOSA/SSN</p>
+<p id=f3a7 class="phone s04"><cite>mjk:</cite> Things interactive and asynchronously. In smart buildings, e.g., the sensor can be coupled to a location. In smart cities, it will be a different smart model.<br>
+<span id=9b68>… E.g., temperatutre of solar panel array.</span><br>
+<span id=b859>… It is kind of ad hoc.</span><br>
+<span id=a4c8>… We could start in our doc to give guidance.</span><br>
+<span id=ac0f>… Examples and guidance, some constraints on annotations, on client access to semantics.</span><br>
+<span id=0d7e>… Let's queue up a presentation on WoT.</span><br>
+<span id=75f2>… About Thing Descriptions, new sophisticated interactions.</span></p>
+<p id=10001 class="phone s01"><cite>kaz:</cite> We don't have anybody today, be we can do that next time.<br>
+<span id=e850>… About buildings: There are probably many trials for smaller ontologies.</span><br>
+<span id=da90>… Do you have ways to refer to such emerging ontologies?</span><br>
+<span id=90f4>… Maybe via DCAT or SOSA.</span></p>
+<p id=53e8 class=irc><cite>&lt;kaz&gt;</cite> <a href="https://w3c-lbd-cg.github.io/bot/">Building Topology Ontology</a></p>
+<p id=1eca class="phone s02"><cite>linda:</cite> I think the OGC Building Blocks allow referring to ontologies.</p>
+<p id=9975 class="phone s03"><cite>scott:</cite> As long as the ontologies are registered.<br>
+<span id=64c3>… OGC standards are highly modularized.</span><br>
+<span id=3038>… This is maturing now, not a lot that is already done.</span></p>
+<p id=be02 class="phone s01"><cite>kaz:</cite> We'd like JTC1, W3C ond OGC to collaborate.<br>
+<span id=467b>… JTC4 has been created and the global situation is still kind of messy, but the mechanisms in JTC should be more clearly defined.</span></p>
+<p id=0f4e class="phone s04"><cite>mjk:</cite> Having RDF ontologies and namespaces makes it easier, especially compared to when we only had APIs</p>
+<p id=edc2 class="phone s02"><cite>linda:</cite> Is there already an ontology for properties such as temperature, weight, speed?</p>
+<p id=1937 class=irc><cite>&lt;kaz&gt;</cite> <a href="https://www.qudt.org/pages/QUDToverviewPage.html">QUDT Ontologies</a></p>
+<p id=1caf class="phone s04"><cite>mjk:</cite> QUDT is I think the best.<br>
+<span id=312b>… Avoids problems such as Celsius vs Fahrenheit.</span><br>
+<span id=f252>… What's missing is a good defintiion of what is a set point, rolling average, minimum and maximum.</span><br>
+<span id=089a>… We are doing a bit of that, also for alarm point, but not yet high and low alarm points.</span><br>
+<span id=0c9b>… That looks like another opportunity for a group to come together and define it.</span><br>
+<span id=a58d>… CDL (Control Description Language) has some math functions and logics for control flow.</span><br>
+<span id=25c7>… It comes with an RDF ontology..</span><br>
+<span id=a167>… Building Ontology specs.</span><br>
+<span id=4fe2>… Real estate core merged with Brics.</span></p>
+<p id=0653 class=irc><cite>&lt;kaz&gt;</cite> <a href="https://www.realestatecore.io">RealEstateCore</a></p>
+<p id=0ff7 class="phone s04"><cite>mjk:</cite> We can maybe do a survey of what is available in the world of real estate,<br>
+<span id=0a7f>… Also automotive and energy, solar energy.</span><br>
+<span id=5df5>… All those are candidates for integration.</span><br>
+<span id=c690>… With AI and agents, you can then build a functional system.</span><br>
+<span id=72ee>… Digitial twins that combine what people are already doing.</span><br>
+<span id=de1a>… Another example is waste water: what are people doing there?</span></p>
+<p id=71a5 class="phone s01"><cite>kaz:</cite> Your comment implies that our Note should have a section on ontologies.</p>
+<p id=8a18 class="phone s04"><cite>mjk:</cite> Yes, it is not always obvious. I think we should go to that level of detail in the Note.</p>
+<p id=4890 class="phone s01"><cite>kaz:</cite> Any more discussion points for today?<br>
+<span id=22b6>… We can ask Torbjorn, etc. to talk about their work.</span><br>
+<span id=f848>… And let's continue the survey and talk about use cases.</span><br>
+<span id=7fe1>… I'll find the next date for the May meeting.</span></p>
+<p id=3923 class="phone s02"><cite>Linda:</cite> I'll send you my slides</p>
+<p id=3eda class=irc><cite>&lt;kaz&gt;</cite> [adjourned]</p>
+</section>
+</main>
+
+<div id=ResolutionSummary>
+<h2>Summary of resolutions</h2>
+<ol>
+<li><a href="#d122">minutes approved</a></li>
+</ol>
+</div>
+
+
+<address>Minutes manually created (not a transcript), formatted by <a
+href="https://w3c.github.io/scribe2/scribedoc.html"
+>scribe.perl</a> version 248 (Mon Oct 27 20:04:16 2025 UTC).</address>
+
+</div>
+</body>
+</html>
