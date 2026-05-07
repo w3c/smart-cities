@@ -17,6 +17,13 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 
 ### Agenda
 
+#### 25 May 2026
+1. Logistics (Guests, Meeting schedule, etc.)
+2. Minutes review: [2 March 2026](https://www.w3.org/2026/04/13-smart-cities-minutes.html)
+3. Status check for [Plan 2026](https://github.com/w3c/smart-cities/blob/main/schedule.md) - [Template for the draft IG Note](https://w3c.github.io/smart-cities/ig-note/) available on [GitHub](https://github.com/w3c/smart-cities/tree/main/ig-note)
+4. Collaboration with Working Group Standards & Platforms
+5. AOB (Your input is welcome!)
+
 #### 13 April 2026
 1. Logistics (Guests, Meeting schedule, etc.)
 2. Minutes review: [2 March 2026](https://www.w3.org/2026/03/02-smart-cities-minutes.html)
