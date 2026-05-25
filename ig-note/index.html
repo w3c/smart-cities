@@ -55,7 +55,168 @@
 
     <section>
         <h2>Survey of existing technologies and standards for Web-based Smart Cities</h2>
-        <p>TBD</p>
+
+        <section>
+            <h3>Open Geospacial Consortium (OGC)</h3>
+            <p class="note">
+                The content of this section is still a very early draft and needs significant improvements.
+            </p>
+
+                <p>OGC defines standards for geospatial data formats like the following:</p>
+
+                <ul>
+                    <li>General feature model</li>
+                    <li>Simple features</li>
+                    <li>City GML – CityJSON</li>
+                    <li>3D Tiles –I3S</li>
+                    <li>WaterML</li>
+                    <li>GeoSciML</li>
+                    <li>MUDDI Underground Info</li>
+                    <li>OGC API Features</li>
+                    <li>Observations and Measurements</li>
+                    <li>SensorThings API</li>
+                    <li>OGC API Processes</li>
+                    <li>Moving features</li>
+                    <li>GeoPose</li>
+                    <li>IMDF</li>
+                    <li>LAS</li>
+                    <li>OGC Innovation and Future Digital Twins</li>
+                </ul>
+
+                <p>Using their standards (like the ones from the above list), they can create interoperable digital twins about soil, rainfall, traffic, etc. They are mostly making simulations and testing them in so-called testbeds, and companies get grants to do testing.</p>
+
+                <!-- <p>[Get backdrop of Almere]</p>-->
+
+                <p>One use case about heavy rainfall that may flood streets in Almere and related standards for that
+                    starting with an aerial photograph. We can get necessary data such as maps using OGC APIs.</p>
+
+                <!-- [Search for cloudburst simulator]</p>-->
+
+                <p>Then we search for a model that can do the calculations.
+                    OGC API Records is an OGC standard that we use for data sets (DCAT).</p>
+
+                <!-- <p>[API Processes]</p>-->
+
+                <p>Once found, we add interactions, with OGC API Processes.
+                   The user gets back that a simulator is available and he has to fill in some fields.
+                   That informs the process of the needed data.
+                   Data comes back in a standard format.</p>
+
+                <!-- <p>[Async]</p>-->
+
+                <p>After the calculation, which can take some time, the user gets back the results.
+                This is an example of the OGC standards that can be involved in a digital twin.</p>
+
+                <p> The context of the digital twin is always understandable and compatible.
+                Including the digitial representations of sensors.
+                We've been working with several standards bodies for that, including W3C.
+                DCAT was already mentioned as an example.</p>
+
+                <p>Thanks for that presentation.
+                You mentioned DCAT.
+                How about Web of Things as another model for sensors and devices?
+
+                <p>Already some standards in OGC, such as SOSA/SSN joint with W3C.
+                All those sensors, for use, need a time and space.</p>
+
+                <p>WoT in W3C is working on a data model,
+                but it doesn't have concrete time and location.
+
+                <p>the OGC Spatial Data WG were looking into how the models correspond.
+                About if they were at different levels and could be combined.
+
+                <p>wondering about logic handling mechanism for
+                orchestration of multiple entities, a possibility is
+                State chart model as basis for synchronizing streams.</p>
+
+                <p>There has been some work in API for connected services.<br>
+                We have to dig a bit to see what is present.</p>
+
+                <p>I think much is complementary.
+                WoT doesn't define its own API.
+                It is more like a semantically rich data model based on JSON-LD
+                WoT is a fairly compact JSON-LD vocabulary.
+                It connects to annotations from other standards.
+                It doesn't try to replace other layers.
+                It is for coupling.
+                In the context of deployment, how do these pieces work together?
+                WoT sort of fills in the cracks.
+                We try to create a bigger, overall standard.
+                In this group we look at how everything fits together</p>
+
+                <p>Sounds like interesting work to write that Note that describes how everything fits.
+                    OGC would be part of the description.</p>
+
+                <p>One point might be user credentials and authorization.
+                    Are there standards for that?</p>
+
+                <p>Nothing specific to geospatial. We use general mechanisms.
+                    There is still work on a new version of SOSA/SSN</p>
+
+                <p>Things interactive and asynchronously. In smart buildings, e.g., the sensor can be coupled to a location. In smart cities, it will be a different smart model.
+                    E.g., temperatutre of solar panel array.
+                    It is kind of ad hoc.
+                    We could start in our doc to give guidance.
+                    Examples and guidance, some constraints on annotations, on client access to semantics.
+                    Let's queue up a presentation on WoT.
+                    About Thing Descriptions, new sophisticated interactions.</p>
+
+                <p> We don't have anybody today, be we can do that next time.
+                    About buildings: There are probably many trials for smaller ontologies.
+                    Do you have ways to refer to such emerging ontologies?
+                    Maybe via DCAT or SOSA.</p>
+
+                <p<a href="https://w3c-lbd-cg.github.io/bot/">Building Topology Ontology</a></p>
+
+                <p>I think the OGC Building Blocks allow referring to ontologies.</p>
+
+                <p>As long as the ontologies are registered.
+                    OGC standards are highly modularized.
+                    This is maturing now, not a lot that is already done.</p>
+
+                <p> We'd like JTC1, W3C ond OGC to collaborate.
+                    JTC4 has been created and the global situation is still kind of messy, but the mechanisms in JTC should be more clearly defined.</p>
+
+                <p>Having RDF ontologies and namespaces makes it easier, especially compared to when we only had APIs</p>
+
+                <p>Is there already an ontology for properties such as temperature, weight, speed?</p>
+
+                <p><a href="https://www.qudt.org/pages/QUDToverviewPage.html">QUDT Ontologies</a></p>
+
+                <p>QUDT is I think the best.
+                    Avoids problems such as Celsius vs Fahrenheit.
+                    What's missing is a good defintiion of what is a set point, rolling average, minimum and maximum.
+                    We are doing a bit of that, also for alarm point, but not yet high and low alarm points.
+                    That looks like another opportunity for a group to come together and define it.
+                    CDL (Control Description Language) has some math functions and logics for control flow.
+                    It comes with an RDF ontology.
+                    Building Ontology specs.
+                    Real estate core merged with Brics.</p>
+
+                <p><a href="https://www.realestatecore.io">RealEstateCore</a></p>
+
+                <p> We can maybe do a survey of what is available in the world of real estate,
+                    Also automotive and energy, solar energy.
+                    All those are candidates for integration.
+                    With AI and agents, you can then build a functional system.
+                    Digitial twins that combine what people are already doing.
+                    Another example is waste water: what are people doing there?</p>
+
+                <p>Based on the <a href="https://w3c.github.io/smart-cities/minutes/2026/04/13-smart-cities-minutes.html#e9ad">discussion during the IG call on 13 April 2026</a>, we identified that our Note on the Technology Land Scape around Web-based Digital Twins for Smart Cities should have a dedicated section on ontologies for smart cities.</p>
+        </section>
+
+        <p><strong>Links:</strong></p>
+            <ul>
+            <li><a href="https://www.ogc.org">OGC Web Site</a></li>
+            </ul>
+
+                <ul>
+                    <li><a href="https://www.w3.org/2021/06/25-smart-cities-minutes.html#t09">OGC talk during the workshop</a></li>
+                    <li><a href="https://w3c.github.io/smartcities-workshop/report.html#session2-2">Summary of the talk</a></li>
+                    <li><a href=""https://w3c.github.io/smart-cities/minutes/2026/04/13-smart-cities-minutes.html">Discussion during the IG call on 13 April 2026</a></li>
+                    <li><a href="https://github.com/w3c/smart-cities/blob/main/slides/20260413-ogc/Standards-based_Architecture.pdf">Linda van den Brink's slides from the IG call</a></li>
+                </ul>
+
     </section>
 
     <section>
