@@ -29,7 +29,8 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 * Talks from SDOs 45mins
   * ITU-T (Gyu Myoung) - 15mins
   * RP1 (Sean Mann) - 15mins
-  * Kaz for SBCO/ECHONET - 10mins
+  * [SBCO](https://github.com/w3c/smart-cities/blob/main/slides/20261028-tpac2026/20261028-smartcities-tpac2026-sbco.pdf) (Kaz for them) - 5mins
+  * ECHONET (Kaz for them) - 5mins
 
 * Closing - 5mins
 
