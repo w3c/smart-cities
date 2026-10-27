@@ -20,18 +20,18 @@ We use the [W3C IRC channel](https://irc.w3.org/?channels=smart-cities) as well 
 #### 28 October 2026
 (as a [Breakout Session during TPAC 2026](https://github.com/w3c/tpac2026-breakouts/issues/18))
 
-* Opening 2min
+* Opening - 2min
 
-* Current status and Future 8mins
+* Current status and Future - 8mins
   * [Draft Charter](https://w3c.github.io/smart-cities/charters/charter-ig-smart-cities-2026.html) Status - 5mins
   * [Landscape Document](https://w3c.github.io/smart-cities/ig-note/) Status - 3mins
 
 * Talks from SDOs 45mins
-  * ITU-T (Gyu Myoung) 15mins
-  * RP1 (Sean Mann) 15mins
-  * Kaz for SBCO/ECHONET 10mins
+  * ITU-T (Gyu Myoung) - 15mins
+  * RP1 (Sean Mann) - 15mins
+  * Kaz for SBCO/ECHONET - 10mins
 
-* Closing 5mins
+* Closing - 5mins
 
 #### 29 June 2026
 1. Logistics (Guests, Meeting schedule, etc.)
